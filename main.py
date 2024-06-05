@@ -5,9 +5,9 @@ start_time = time.time()
 from Source.CF_replace_symbols import CF_Reel, CF_Reelset, Insert_CF_Symbols_instead_of_11
 
 ###################################### НАДО ВОТ ЭТО ЗАДАТЬ ######################################
-GAME_NAME = "CF"
-INNER_DIRECTORY = ""   # Имя папки внутри основной папки GAME_NAME, если таковой нет, то просто оставляй пустую строчку ""
-SETTING_FILE_NAME = "3scat_5_weight"             # Только имя файла в папке Settings, путь и расширение не надо
+GAME_NAME = "GE"
+INNER_DIRECTORY = "frenzy"   # Имя папки внутри основной папки GAME_NAME, если таковой нет, то просто оставляй пустую строчку ""
+SETTING_FILE_NAME = "frenzy_all"             # Только имя файла в папке Settings, путь и расширение не надо
 REELS_FILE_NAME = "3scat_5"                       # Только имя файла в папке Reels, путь и расширение не надо
 #################################################################################################
 
